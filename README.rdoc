@@ -1,5 +1,7 @@
 == youtube-troll-classifier
 
+forked from https://github.com/browning/comment-troll-classifier
+
 This is a bayesian classifier of online comments. It was trained with youtube comments , but it could be used on any online commenting system. It is not affiliated in any way with Youtube.com or google.
 
 It is an implementation of Paul Graham's algorithms and techniques for classifying spam: http://www.paulgraham.com/spam.html
